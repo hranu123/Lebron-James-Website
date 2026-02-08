@@ -11,14 +11,14 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #8400ff;
+  background-color: #6f00ff;
   display: flex;
   justify-content: center;
 }
 
 ul li a {
   display: block;
-  color: rgb(255, 0, 0);
+  color: rgb(158, 8, 8);
   padding: 14px 16px;
   text-decoration: none;
 }
