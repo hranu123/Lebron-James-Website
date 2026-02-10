@@ -4,7 +4,6 @@ color:rgb(88,0,170);
 background-color:rgb(88, 0, 170);
 font-size:20px;
   text-align: center;
-text-shadow: 0px 0.5px 0 rgb(255, 0, 0);
 
 }
 
@@ -28,8 +27,7 @@ letter-spacing: 2px;
 
 
 p {
-font-size: 20px;
-font-family: "Montserrat," sans-serif;
+font-size: 25px;
  text-align: left;
   line-height: 1.8;
 font-family: "Montserrat," sans-serif;
@@ -41,6 +39,7 @@ font-family: "Montserrat," sans-serif;
   margin-right: 7px;    
   font-weight: bold;
   font-size: 48px;
+  letter-spacing: 1px;
 }
 .rainbow-heading span:nth-child(odd) {
   color: rgb(107, 2, 107);
@@ -49,9 +48,4 @@ font-family: "Montserrat," sans-serif;
 
 .rainbow-heading span:nth-child(even) {
   color: rgb(223, 182, 0) ;
-
-
-
-
-
 }
