@@ -128,16 +128,14 @@ text-align: center;
   max-width: 1200px;
   width: 100%;
 }
-.image-side img {;
-  width: 700px;
-  height: 600px;
-  border-radius: 12px;
+.image-side img {
+width: 700px;
+height: 600px;
+border-radius: 12px;
 border-bottom: 7px solid rgb(146, 2, 2);
-  border-left:7px solid rgb(223, 182, 0);
-  border-right: 7px solid rgb(223, 182, 0);
-  border-top: 7px solid rgb(132, 0, 255);
-
-
-  object-fit: cover;
+border-left:7px solid rgb(223, 182, 0);
+border-right: 7px solid rgb(223, 182, 0);
+border-top: 7px solid rgb(132, 0, 255);
+object-fit: cover;
 }
 
